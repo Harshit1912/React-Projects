@@ -1,0 +1,28 @@
+Background Changer 
+
+1.State is changing on every click so we need to have useState , we will give yellow color as a default state 
+2. Array of colors is to be provided 
+3.Navbar m color dedenge sare : 5 -> ek hi component ka use krlenge or usi ko 5 baar render , props pass krdenge alag alag
+
+
+Password Creater --> commit 0abd43294accc3c3303059682742ee1b5535fcc0
+
+1.String ki lenght 8 h 
+2.Number : include and not include
+3.Character:  include and not include 
+4.Copy button : include only string
+5.Slider -> check string length if it changes then run the method to create password again 
+
+
+Task-Manager-App
+
+1.Write todo 
+2.Toggle todo 
+3.edit Todo
+4.Delete todo
+
+
+-->setting up context api in the context folder then setting up create context and use context 
+--> now pasing the basuc functionalitis and defination of what our application will do
+
+Costa Blue
